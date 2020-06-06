@@ -157,11 +157,13 @@ Each Azure subscription has default quota limits in place to prevent service abu
 ## Sending telemetry from a device to an IoT hub and read it with a back-end application using:
 
 **Python**
+
 IoT Hub is an Azure service that enables you to ingest high volumes of telemetry from your IoT devices into the cloud for storage or processing. In this quickstart, you send telemetry from a simulated device application, through IoT Hub, to a back-end application for processing.
 The quickstart uses a pre-written Python application to send the telemetry and a CLI utility to read the telemetry from the hub. Before you run these two applications, you create an IoT hub and register a device with the hub.
 
 **Azure Cloud Shell**
-Azure Cloud Shell is an interactive shell environment hosted in Azure and used through your browser. Azure Cloud Shell allows you to use either bash or PowerShell shells to run a variety of tools to work with Azure services. Azure Cloud Shell comes pre-installed with the commands to allow you to run the content of this article without having to install anything on your local environment.
+
+Azure Cloud Shell is an interactive shell environment hosted in Azure and used through your browser. Azure Cloud Shell allows you to use either bash or PowerShell shells to run a variety of tools to work with Azure services. Azure Cloud Shell comes pre-installed with the commands to allow you to run the content of this article without having to install anything on your local environment.
 To run any code contained in this article on Azure Cloud Shell, open a Cloud Shell session, use the Copy button on a code block to copy the code, and paste it into the Cloud Shell session with Ctrl+Shift+V on Windows and Linux, or Cmd+Shift+V on macOS. Pasted text is not automatically executed, so press Enter to run code.
 *You can launch Azure Cloud Shell with:*
     Option
@@ -184,7 +186,7 @@ You can verify the current version of Python on your development machine using o
 
 Run the following command to add the Microsoft Azure IoT Extension for Azure CLI to your Cloud Shell instance. The IOT Extension adds IoT Hub, IoT Edge, and IoT Device Provisioning Service (DPS) specific commands to Azure CLI.
 
-    Azure CLI
+
     az extension add --name azure-cli-iot-ext
 
 Download the sample Python project from:
