@@ -167,7 +167,9 @@ The quickstart uses a pre-written Python application to send the telemetry and a
 
 Azure Cloud Shell is an interactive shell environment hosted in Azure and used through your browser. Azure Cloud Shell allows you to use either bash or PowerShell shells to run a variety of tools to work with Azure services. Azure Cloud Shell comes pre-installed with the commands to allow you to run the content of this article without having to install anything on your local environment.
 To run any code contained in this article on Azure Cloud Shell, open a Cloud Shell session, use the Copy button on a code block to copy the code, and paste it into the Cloud Shell session with Ctrl+Shift+V on Windows and Linux, or Cmd+Shift+V on macOS. Pasted text is not automatically executed, so press Enter to run code.
+
 *You can launch Azure Cloud Shell with:*
+  
     Option
     Example/Link
     - Select Try It in the upper-right corner of a code block. This doesn't automatically copy text to Cloud Shell.
