@@ -205,22 +205,22 @@ and extract the ZIP archive.
 This section describes how to create an IoT hub using the Azure portal.
 
    - Log in to the Azure portal.
-    - Choose +Create a resource, then Search the Marketplace for the IoT Hub.
-    - Select IoT Hub and click the Create button. You see the first screen for creating an IoT hub.
-    - Fill in the fields.
+   - Choose +Create a resource, then Search the Marketplace for the IoT Hub.
+   - Select IoT Hub and click the Create button. You see the first screen for creating an IoT hub.
+   - Fill in the fields.
         - Subscription: Select the subscription to use for your IoT hub.
         - Resource Group: You can create a new resource group or use an existing one. To create a new one, click Create new and fill in the name you want to use. To use an existing resource group, click Use existing and select the resource group from the dropdown list. For more information, see Manage Azure Resource Manager resource groups.
         - Region: This is the region in which you want your hub to be located. Select the location closest to you from the dropdown list.
         - IoT Hub Name: Put in the name for your IoT Hub. This name must be globally unique. If the name you enter is available, a green check mark appears.
     **IMPORTANT:- Because the IoT hub will be publicly discoverable as a DNS endpoint, be sure to avoid entering any sensitive or personally identifiable information when you name it.**
-    - Click Next: Size and scale to continue creating your IoT hub.
+   - Click Next: Size and scale to continue creating your IoT hub.
         - On this screen, you can take the defaults and just click Review + create at the bottom.
         - Pricing and scale tier: You can choose from several tiers depending on how many features you want and how many messages you send through your solution per day. The free tier is intended for testing and evaluation. It allows 500 devices to be connected to the IoT hub and up to 8,000 messages per day. Each Azure subscription can create one IoT Hub in the free tier.
         - IoT Hub units: The number of messages allowed per unit per day depends on your hub's pricing tier. For example, if you want the IoT hub to support ingress of 700,000 messages, you choose two S1 tier units.
-    - For details about the other tier options, see Choosing the right IoT Hub tier.
-    - Advanced / Device-to-cloud partitions: This property relates the device-to-cloud messages to the number of simultaneous readers of the messages. Most IoT hubs only need four partitions.
-    - Click Review + create to review your choices. You see something similar to this screen.
-    - Click Create to create your new IoT hub. Creating the hub takes a few minutes.
+   - For details about the other tier options, see Choosing the right IoT Hub tier.
+   - Advanced / Device-to-cloud partitions: This property relates the device-to-cloud messages to the number of simultaneous readers of the messages. Most IoT hubs only need four partitions.
+   - Click Review + create to review your choices. You see something similar to this screen.
+   - Click Create to create your new IoT hub. Creating the hub takes a few minutes.
     ***Now you are good to go!!!***
 
 
@@ -284,10 +284,10 @@ Otherwise, you can delete the Azure resources created in this article to avoid c
 **IMPORTANT: Deleting a resource group is irreversible. The resource group and all the resources contained in it are permanently deleted. Make sure that you do not accidentally delete the wrong resource group or resources. If you created the IoT Hub inside an existing resource group that contains resources you want to keep, only delete the IoT Hub resource itself instead of deleting the resource group.**
 To delete a resource group by name:
 
-    - Sign in to the Azure portal and click Resource groups.
-    - In the Filter by name... textbox, type the name of the resource group containing your IoT Hub.
-    - To the right of your resource group in the result list, click ... then Delete resource group.
-    - You will be asked to confirm the deletion of the resource group. Type the name of your resource group again to confirm, and then click Delete. After a few moments, the resource group and all of its contained resources are deleted.
+   - Sign in to the Azure portal and click Resource groups.
+   - In the Filter by name... textbox, type the name of the resource group containing your IoT Hub.
+   - To the right of your resource group in the result list, click ... then Delete resource group.
+   - You will be asked to confirm the deletion of the resource group. Type the name of your resource group again to confirm, and then click Delete. After a few moments, the resource group and all of its contained resources are deleted.
 
 
 ## CONCLUSION
@@ -300,16 +300,16 @@ This project creates a Microsoft Azure account, with help of which we able to us
 
 We would like to thank the authors and publisher of all the books which we have read to understand the topic and complete this project. Some of the mentioned books were very handy. 
 
-    - “Introducing Windows Azure for IT Professionals” by Mitch Tulloch
-    - “Deployment of Microsoft Azure Cloud Solutions” by Florian Klaffenbach
-    - “Azure IoT Development Cookbook” by Yatish Patil.
+   - “Introducing Windows Azure for IT Professionals” by Mitch Tulloch
+   - “Deployment of Microsoft Azure Cloud Solutions” by Florian Klaffenbach
+   - “Azure IoT Development Cookbook” by Yatish Patil.
     
 Along with the books, websites were also surfed for relevant information which was need for completion of this project.
 
-    - https://www.youtube.com
-    - https://azure.microsoft.com
-    - https://www.edx.org
-    - https://www.azureiotsolutions.com
+   - https://www.youtube.com
+   - https://azure.microsoft.com
+   - https://www.edx.org
+   - https://www.azureiotsolutions.com
 
 
 
