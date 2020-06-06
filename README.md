@@ -1,6 +1,6 @@
 # Azure IoT Hub (Azure Telemetry Service)
 
-## Submitted by
+### Submitted by
 
 **Subhayu Kumar Bala**
 
@@ -8,7 +8,7 @@
 
 **Debojyoti Roy**
 
-Under the supervision of
+### Under the supervision of
 
 **Mr. Soumya Raha,
 Dept. of IT Computer Science,
