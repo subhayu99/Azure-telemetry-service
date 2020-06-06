@@ -2,18 +2,18 @@
 
 ### Submitted by
 
-**Subhayu Kumar Bala**
+***Subhayu Kumar Bala***
 
-**Deepraj Rakshit**
+***Deepraj Rakshit***
 
-**Debojyoti Roy**
+***Debojyoti Roy***
 
 ### Under the supervision of
 
-**Mr. Soumya Raha,
+***Mr. Soumya Raha,
 Dept. of IT Computer Science,
 Ardent Computech Pvt. Ltd. 
-(Project Guide)**
+(Project Guide)***
 
 
 Report submitted in partial fulfilment of the requirements for the degree of Bachelor of Technology of Maulana Abul Kalam Azad University of Technology, Department of Bachelor of Technology, Calcutta Institute of Engineering and Management, 24/1A, Chandi Ghosh Road, Tollygunge, Kolkata-700040
