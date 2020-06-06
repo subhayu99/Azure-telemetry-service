@@ -221,7 +221,8 @@ This section describes how to create an IoT hub using the Azure portal.
    - Advanced / Device-to-cloud partitions: This property relates the device-to-cloud messages to the number of simultaneous readers of the messages. Most IoT hubs only need four partitions.
    - Click Review + create to review your choices. You see something similar to this screen.
    - Click Create to create your new IoT hub. Creating the hub takes a few minutes.
-    ***Now you are good to go!!!***
+    
+   ***Now you are good to go!!!***
 
 
 ## Register a device
