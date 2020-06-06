@@ -2,16 +2,16 @@
 
 ## Submitted by
 
-    - **Subhayu Kumar Bala**
-    - **Deepraj Rakshit**
-    - **Debojyoti Roy**
+**Subhayu Kumar Bala
+Deepraj Rakshit
+Debojyoti Roy**
 
 Under the supervision of
 
-    Mr. Soumya Raha
-    Dept. of IT Computer Science,
-    Ardent Computech Pvt. Ltd.
-    (Project Guide)
+**Mr. Soumya Raha
+Dept. of IT Computer Science,
+Ardent Computech Pvt. Ltd.
+(Project Guide)**
 
 
 Report submitted in partial fulfilment of the requirements for the degree of Bachelor of Technology of Maulana Abul Kalam Azad University of Technology, Department of Bachelor of Technology, Calcutta Institute of Engineering and Management, 24/1A, Chandi Ghosh Road, Tollygunge, Kolkata-700040
@@ -203,7 +203,7 @@ This section describes how to create an IoT hub using the Azure portal.
     - Select IoT Hub and click the Create button. You see the first screen for creating an IoT hub.
     - Fill in the fields.
         - Subscription: Select the subscription to use for your IoT hub.
-        - Resource Group: You can create a new resource group or use an existing one. To create a new one, click Create new and fill in the name you want to use. To use an existing resource group, click Use existing and select the resource group from the dropdown list. For more information, see Manage Azure Resource Manager resource groups.
+        - Resource Group: You can create a new resource group or use an existing one. To create a new one, click Create new and fill in the name you want to use. To use an existing resource group, click Use existing and select the resource group from the dropdown list. For more information, see Manage Azure Resource Manager resource groups.
         - Region: This is the region in which you want your hub to be located. Select the location closest to you from the dropdown list.
         - IoT Hub Name: Put in the name for your IoT Hub. This name must be globally unique. If the name you enter is available, a green check mark appears.
     **IMPORTANT:- Because the IoT hub will be publicly discoverable as a DNS endpoint, be sure to avoid entering any sensitive or personally identifiable information when you name it.**
