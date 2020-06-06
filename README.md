@@ -132,7 +132,7 @@ Supported languages include:
     - C#
     - Java
     - Python
-    - Node.js.
+    - Node.js
 
 IoT Hub and the device SDKs support the following protocols for connecting devices:
 
