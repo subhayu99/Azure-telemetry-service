@@ -30,7 +30,7 @@ Ardent Computech Pvt. Ltd.
 Report submitted in partial fulfilment of the requirements for the degree of Bachelor of Technology of Maulana Abul Kalam Azad University of Technology, Department of Bachelor of Technology, Calcutta Institute of Engineering and Management, 24/1A, Chandi Ghosh Road, Tollygunge, Kolkata-700040
 
 
-ACKNOWLEDGEMENT
+## ACKNOWLEDGEMENT
 
 
 We wish to extend our heartfelt gratitude and sincere thanks to Mr. Soumya Raha, Dept. of IT Computer Science, Ardent Computech Pvt. Ltd. For his constant support and encouragement given throughout the development of the project.
@@ -41,6 +41,9 @@ We thank Dr. Nilanjan Dey, Dean of Calcutta Institute of Engineering and Managem
 
 Last but not least our sincere thanks to our parents, family members and friends for their continuous support, inspiration and encouragement without which this project would not have been successful.
 
+    Subhayu Kumar Bala
+    Deepraj Rakshit
+    Debojyoti Roy
 
 
 
@@ -49,20 +52,19 @@ Last but not least our sincere thanks to our parents, family members and friends
 
 
 
-___________________________________________                      (DEEPRAJ RAKSHIT)  
 
 
-___________________________________________            (DEBOJYOTI ROY)
 
 
-__________________________________________________(SUBHAYU KUMAR BALA)
 
 
-INDEX
 
-Abstract
 
-Introduction
+## INDEX
+
+### Abstract
+
+#### Introduction
 
       2.1] What is Azure IoT Hub?
 
