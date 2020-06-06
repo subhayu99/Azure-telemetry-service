@@ -212,7 +212,7 @@ This section describes how to create an IoT hub using the Azure portal.
         - Resource Group: You can create a new resource group or use an existing one. To create a new one, click Create new and fill in the name you want to use. To use an existing resource group, click Use existing and select the resource group from the dropdown list. For more information, see Manage Azure Resource Manager resource groups.
         - Region: This is the region in which you want your hub to be located. Select the location closest to you from the dropdown list.
         - IoT Hub Name: Put in the name for your IoT Hub. This name must be globally unique. If the name you enter is available, a green check mark appears.
-   - **IMPORTANT:- Because the IoT hub will be publicly discoverable as a DNS endpoint, be sure to avoid entering any sensitive or personally identifiable information when you name it.**
+        - **IMPORTANT:- Because the IoT hub will be publicly discoverable as a DNS endpoint, be sure to avoid entering any sensitive or personally identifiable information when you name it.**
    - Click Next: Size and scale to continue creating your IoT hub.
         - On this screen, you can take the defaults and just click Review + create at the bottom.
         - Pricing and scale tier: You can choose from several tiers depending on how many features you want and how many messages you send through your solution per day. The free tier is intended for testing and evaluation. It allows 500 devices to be connected to the IoT hub and up to 8,000 messages per day. Each Azure subscription can create one IoT Hub in the free tier.
