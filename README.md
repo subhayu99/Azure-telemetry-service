@@ -1,19 +1,19 @@
-Azure IoT Hub
+# Azure IoT Hub (Azure Telemetry Service)
 
-(Azure Telemetry Service)
+
 
      
 
 
-Submitted by
+## Submitted by
 
-     Name of the Students                                  University Roll No
+### Name of the Students
 
-    Deepraj Rakshit                                16500218048
+    Subhayu Kumar Bala
 
-    Debojyoti Roy
+    Deepraj Rakshit
 
-    Subhayu Kumar Bala
+    Debojyoti Roy
 
 
 Under the supervision of
