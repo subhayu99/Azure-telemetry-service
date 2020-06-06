@@ -62,46 +62,46 @@ Last but not least our sincere thanks to our parents, family members and friends
 
 ## INDEX
 
-### Abstract
+    1.0] Abstract
 
-#### Introduction
+    2.0] Introduction
 
-      2.1] What is Azure IoT Hub?
+    2.1] What is Azure IoT Hub?
 
-      2.2] Scaling solution
+    2.2] Scaling solution
 
-      2.3] Securing communications
+    2.3] Securing communications
 
-      2.4] Route Device Data
+    2.4] Route Device Data
 
-      2.5] Integrate with other devices
+    2.5] Integrate with other devices
 
-      2.6] Configuring and controlling devices
+    2.6] Configuring and controlling devices
 
-      2.7] Making solution highly available
+    2.7] Making solution highly available
 
-      2.8] Connecting Devices
+    2.8] Connecting Devices
 
-      2.9] Quotas and Limits
+    2.9] Quotas and Limits
 
-Sending Telemetry from a device to an IoT Hub and reading it with a backend application
+    3.0] Sending Telemetry from a device to an IoT Hub and reading it with a backend application
 
-       3.1] Opening Azure Cloud Shell
+    3.1] Opening Azure Cloud Shell
 
-       3.2] Pre-Requisites
+    3.2] Pre-Requisites
 
-       3.3] Creating an IoT Hub
+    3.3] Creating an IoT Hub
 
-       3.4] Registering a Device
+    3.4] Registering a Device
 
-       3.5] Sending simulated telemetry
+    3.5] Sending simulated telemetry
 
-       3.6] Read the telemetry from your hub
+    3.6] Read the telemetry from your hub
 
 
-Conclusion
+    4.0] Conclusion
 
-Bibliography
+    5.0] Bibliography
 
 
 
