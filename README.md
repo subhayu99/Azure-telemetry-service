@@ -129,18 +129,18 @@ There's a 99.9% Service Level Agreement for IoT Hub. The full Azure SLA expla
 Supported languages include:
 
 - C
-    - C#
-    - Java
-    - Python
-    - Node.js
+- C#
+- Java
+- Python
+- Node.js
 
 IoT Hub and the device SDKs support the following protocols for connecting devices:
 
-    - HTTPS
-    - AMQP
-    - AMQP over WebSockets
-    - MQTT
-    - MQTT over WebSockets
+- HTTPS
+- AMQP
+- AMQP over WebSockets
+- MQTT
+- MQTT over WebSockets
 
 If your solution cannot use the device libraries, devices can use the MQTT v3.1.1, HTTPS 1.1, or AMQP 1.0 protocols to connect natively to your hub.
 If your solution cannot use one of the supported protocols, you can extend IoT Hub to support custom protocols:
@@ -152,8 +152,8 @@ Customize the Azure IoT protocol gateway to perform protocol translation in th
 
 Each Azure subscription has default quota limits in place to prevent service abuse, and these limits could impact the scope of your IoT solution. The current limit on a per-subscription basis is 50 IoT hubs per subscription. You can request quota increases by contacting support. For more details on quota limits:
  
-    - Azure subscription service limits
-    - IoT Hub throttling and you
+- Azure subscription service limits
+- IoT Hub throttling and you
 
 
 ## Sending telemetry from a device to an IoT hub and read it with a back-end application using:
@@ -172,9 +172,9 @@ To run any code contained in this article on Azure Cloud Shell, open a Cloud She
   
     Option
     Example/Link
-    - Select Try It in the upper-right corner of a code block. This doesn't automatically copy text to Cloud Shell.
-    - Open Azure Cloud Shell in your browser.
-    - Select the Cloud Shell button on the menu in the upper-right corner of the Azure portal.
+    Select Try It in the upper-right corner of a code block. This doesn't automatically copy text to Cloud Shell.
+    Open Azure Cloud Shell in your browser.
+    Select the Cloud Shell button on the menu in the upper-right corner of theAzure portal.
     
     
 ## Pre-Requisites
@@ -204,7 +204,7 @@ and extract the ZIP archive.
 
 This section describes how to create an IoT hub using the Azure portal.
 
-    - Log in to the Azure portal.
+   - Log in to the Azure portal.
     - Choose +Create a resource, then Search the Marketplace for the IoT Hub.
     - Select IoT Hub and click the Create button. You see the first screen for creating an IoT hub.
     - Fill in the fields.
