@@ -2,15 +2,17 @@
 
 ## Submitted by
 
-**Subhayu Kumar Bala
-Deepraj Rakshit
-Debojyoti Roy**
+**Subhayu Kumar Bala**
+
+**Deepraj Rakshit**
+
+**Debojyoti Roy**
 
 Under the supervision of
 
-**Mr. Soumya Raha
+**Mr. Soumya Raha,
 Dept. of IT Computer Science,
-Ardent Computech Pvt. Ltd.
+Ardent Computech Pvt. Ltd. 
 (Project Guide)**
 
 
