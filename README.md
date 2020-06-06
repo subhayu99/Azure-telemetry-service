@@ -128,7 +128,7 @@ Automatically respond to a device-reported state change with message routing int
 There's a 99.9% Service Level Agreement for IoT Hub. The full Azure SLA explains the guaranteed availability of Azure as a whole. Connect your devices. Use the Azure IoT device SDK libraries to build applications that run on your devices and interact with IoT Hub. Supported platforms include multiple Linux distributions, Windows, and real-time operating systems. 
 Supported languages include:
 
-    - C
+- C
     - C#
     - Java
     - Python
