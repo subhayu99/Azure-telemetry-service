@@ -28,7 +28,7 @@ Last but not least our sincere thanks to our parents, family members and friends
 
 ## INDEX
 
-    [1.0] Abstract
+    [1.0] [Abstract](https://github.com/subhayu99/Azure-telemetry-service#abstract)
 
     [2.0] Introduction
 
