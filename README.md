@@ -28,45 +28,45 @@ Last but not least our sincere thanks to our parents, family members and friends
 
 ## INDEX
 
-    [1.0] Abstract
+    [1.0] [Abstract](https://github.com/subhayu99/Azure-telemetry-service#abstract)
 
-    [2.0] Introduction
+    [2.0] [Introduction](https://github.com/subhayu99/Azure-telemetry-service#what-is-azure-iot-hub)
 
-    [2.1] What is Azure IoT Hub?
+    [2.1] [What is Azure IoT Hub?](https://github.com/subhayu99/Azure-telemetry-service#what-is-azure-iot-hub)
 
-    [2.2] Scaling solution
+    [2.2] [Scaling solution](https://github.com/subhayu99/Azure-telemetry-service#scaling-solution)
 
-    [2.3] Securing communications
+    [2.3] [Securing communications](https://github.com/subhayu99/Azure-telemetry-service#securing-communications)
 
-    [2.4] Route Device Data
+    [2.4] [Route Device Data](https://github.com/subhayu99/Azure-telemetry-service#route-device-data)
 
-    [2.5] Integrate with other devices
+    [2.5] [Integrate with other devices](https://github.com/subhayu99/Azure-telemetry-service#integrate-with-other-services)
 
-    [2.6] Configuring and controlling devices
+    [2.6] [Configuring and controlling devices](https://github.com/subhayu99/Azure-telemetry-service#configuring-and-controlling-devices)
 
-    [2.7] Making solution highly available
+    [2.7] [Making solution highly available](https://github.com/subhayu99/Azure-telemetry-service#making-solution-highly-available)
 
-    [2.8] Connecting Devices
+    [2.8] [Connecting Devices](https://github.com/subhayu99/Azure-telemetry-service#making-solution-highly-available)
 
-    [2.9] Quotas and Limits
+    [2.9] [Quotas and Limits](https://github.com/subhayu99/Azure-telemetry-service#quotas-and-limits)
 
-    [3.0] Sending Telemetry from a device to an IoT Hub and reading it with a backend application
+    [3.0] [Sending Telemetry from a device to an IoT Hub and reading it with a backend application](https://github.com/subhayu99/Azure-telemetry-service#sending-telemetry-from-a-device-to-an-iot-hub-and-read-it-with-a-back-end-application-using)
 
-    [3.1] Opening Azure Cloud Shell
+    [3.1] [Opening Azure Cloud Shell](https://github.com/subhayu99/Azure-telemetry-service#sending-telemetry-from-a-device-to-an-iot-hub-and-read-it-with-a-back-end-application-using)
 
-    [3.2] Pre-Requisites
+    [3.2] [Pre-Requisites](https://github.com/subhayu99/Azure-telemetry-service#pre-requisites)
 
-    [3.3] Creating an IoT Hub
+    [3.3] [Creating an IoT Hub](https://github.com/subhayu99/Azure-telemetry-service#create-an-iot-hub)
 
-    [3.4] Registering a Device
+    [3.4] [Registering a Device](https://github.com/subhayu99/Azure-telemetry-service#register-a-device)
 
-    [3.5] Sending simulated telemetry
+    [3.5] [Sending simulated telemetry](https://github.com/subhayu99/Azure-telemetry-service#send-simulated-telemetry)
 
-    [3.6] Read the telemetry from your hub
+    [3.6] [Read the telemetry from your hub](https://github.com/subhayu99/Azure-telemetry-service#read-the-telemetry-from-your-hub)
 
-    [4.0] Conclusion
+    [4.0] [Conclusion](https://github.com/subhayu99/Azure-telemetry-service#conclusion)
 
-    [5.0] Bibliography
+    [5.0] [Bibliography](https://github.com/subhayu99/Azure-telemetry-service#bibliography)
 
 
 ## Abstract
